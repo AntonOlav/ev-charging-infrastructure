@@ -3,12 +3,12 @@
 Step-by-step plan for performing a Minimum Cost Flow (MCF) analysis on our problem and incorporating charging station placement optimization based on traffic flow:
 
 Step 1: Data Preparation
-  1.	Import your road network data, including nodes (cities), edges (road segments), and edge attributes (speed limit, length, and time).
+  1.	Import our road network data, including nodes (cities), edges (road segments), and edge attributes (speed limit, length, and time).
   2.	Import traffic volume data for the road segments and assign them as edge attributes.
   3.	Import the O-D pairs data, which represent the origin and destination points between different cities.
   
 Step 2: Create a Flow Network
-  1.	Add a super-source and a super-sink node to your network.
+  1.	Add a super-source and a super-sink node to our network.
   2.	Connect the super-source node to all origin nodes with directed edges, and the destination nodes to the super-sink node with directed edges.
   3.	Assign capacities to the edges connecting the super-source and super-sink nodes based on the expected traffic volume between each O-D pair.
   4.	Define the edge costs based on the factors affecting transportation, such as travel time, distance (length), and speed limit.
@@ -34,5 +34,5 @@ Step 6: Implementation and Iteration
   2.	Continuously monitor and update the network data, traffic volume data, and charging station data as new information becomes available.
   3.	Periodically re-run the MCF analysis and charging station placement optimization to adapt to changing conditions and improve the performance of the charging infrastructure.
   
-This plan provides a high-level overview of the steps required to perform a Minimum Cost Flow analysis and optimize charging station placement based on traffic flow. The specific details and implementation may vary depending on your problem, dataset, and objectives.
+This plan provides a high-level overview of the steps required to perform a Minimum Cost Flow analysis and optimize charging station placement based on traffic flow. 
 
