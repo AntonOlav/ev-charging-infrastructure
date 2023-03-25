@@ -1,6 +1,5 @@
 # traffic-flow-maps
 
-
 Step-by-step plan for performing a Minimum Cost Flow (MCF) analysis on our problem and incorporating charging station placement optimization based on traffic flow:
 
 Step 1: Data Preparation
@@ -37,3 +36,4 @@ Step 6: Implementation and Iteration
   
 This plan provides a high-level overview of the steps required to perform a Minimum Cost Flow analysis and optimize charging station placement based on traffic flow. 
 
+![network_traffic_counts](https://user-images.githubusercontent.com/97998939/227720823-354602eb-9d8f-4964-8a7e-a8084c59e728.png)
