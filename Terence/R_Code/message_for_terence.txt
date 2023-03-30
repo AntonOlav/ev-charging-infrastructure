@@ -11,4 +11,6 @@ If you would like to examine the dataset personally, I recommend downloading it 
 Your insights and guidance on this issue would be invaluable, and I look forward to hearing from you soon. 
 Thank you for your time and consideration!
 
+For reference, I've made a simple 2D graduated graph through QGIS that show how the volume is distributed on the network.
+
 
