@@ -1,6 +1,6 @@
 Installation instructions
 
-Below are the links to the Norwegian national map catalogue for traffic volume and boundaries:
+Below are the links to the Norwegian national map catalogue for traffic volume and boundaries (I recommend downloading from source rather than GitHub -simpler:
 
 1. Traffic volume
 https://kartkatalog.geonorge.no/metadata/roads-traffic-volumes/af2c4a0a-1978-4e62-b08d-ed1f36bd5023
