@@ -1,0 +1,28 @@
+Installation instructions
+
+Below are the links to the Norwegian national map catalogue for traffic volume and boundaries:
+
+1. Traffic volume
+https://kartkatalog.geonorge.no/metadata/roads-traffic-volumes/af2c4a0a-1978-4e62-b08d-ed1f36bd5023
+
+In order to upload the entire traffic volume folder to GitHub I had to pickle one file called “a00000007.gdbtable”. This can be reverted in Python by following the following steps:
+	import pickle
+	with open(“a00000007.gdbtable.pickle”, “rb”) as f:
+		data=pickle.load(f)
+
+Alternatively, install the file from the database linked above.
+
+
+2. Boundaries
+-Map version:
+https://kartkatalog.geonorge.no/metadata/n1000-map-data/aee42bb6-d0e9-4d70-86fe-6ea76c381055
+
+-Raster version (MrSid format):
+https://kartkatalog.geonorge.no/metadata/n1000-raster/6a21de44-5a66-49b3-89e9-88c8bd0b948f
+
+3. Boundaries -Simplified shapefile
+-https://www.eea.europa.eu/data-and-maps/data/eea-reference-grids-2/gis-files/norway-shapefile
+
+
+
+
