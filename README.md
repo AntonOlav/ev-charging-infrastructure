@@ -69,9 +69,13 @@ traffic volumes***
 >    and supply of chargers. b. Create visualizations to communicate our
 >    findings effectively.
     
+    
+    
 ```{=html}
 <!--Step by Step Plans-->
 ```
+
+
 
 **Step 1: Data Prep**
 
