@@ -65,12 +65,13 @@ traffic data, if available.
 
 8.  **Analyze and visualize results:**
 
-```{=html}
-<!-- -->
-```
 a.  Analyze the results to identify patterns and trends in the demand
     and supply of chargers. b. Create visualizations to communicate our
     findings effectively.
+    
+```{=html}
+<!-- -->
+```
 
 **Step 1: Data Prep**
 
