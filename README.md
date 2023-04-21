@@ -183,6 +183,10 @@ analysis.
 b\. Document the steps, constants, and assumptions used in calculating
 charging probabilities for reproducibility and future reference.
 
+```{=html}
+<!-- -->
+```
+
 **Step 3: Charging Demand**
 
 1.  **Define constants and assumptions:**
@@ -235,6 +239,10 @@ charging probabilities for reproducibility and future reference.
 >
 > b\. Document the steps, constants, and assumptions used in calculating
 > charging demand for reproducibility and future reference.
+
+```{=html}
+<!-- -->
+```
 
 **Step 4: Charging Supply**
 
@@ -303,6 +311,10 @@ analysis.
 b\. Document the steps, constants, and assumptions used in calculating
 charging supply for reproducibility and future reference.
 
+```{=html}
+<!-- -->
+```
+
 **Step 5: Identifying underserved edges**
 
 1.  **Calculate the supply-demand gap:**
@@ -323,16 +335,10 @@ analysis and visualization.
 
 3.  **Sort underserved edges by the supply-demand gap:**
 
-```{=html}
-<!-- -->
-```
 a.  Sort the filtered underserved edges in descending order based on the
     supply-demand gap (g) to prioritize the edges with the highest unmet
     demand.
 
-```{=html}
-<!-- -->
-```
 4.  **Explore the characteristics of underserved edges:**
 
 a\. Analyze the underserved edges to understand their common
@@ -367,6 +373,10 @@ Excel, or a database) for further analysis.
 
 b\. Document the steps, constants, and assumptions used in identifying
 underserved edges for reproducibility and future reference.
+
+```{=html}
+<!-- -->
+```
 
 **Step 6: Optimization (optional, see if we have time)**
 
@@ -449,33 +459,25 @@ formulation, algorithm choice, and algorithm parameters.
 b\. Save the optimal solution and any relevant visualizations or
 analysis in an appropriate format for future reference and reporting.
 
+```{=html}
+<!-- -->
+```
+
 **Step 7: Sensitivity analysis**
 
 1.  **Identify key parameters and assumptions:**
 
-```{=html}
-<!-- -->
-```
 a.  Review our optimization model and dataset to identify the key
     parameters and assumptions that may influence the solution, such as
     battery range, charging time, traffic volume, and seasonal
     variations.
 
-```{=html}
-<!-- -->
-```
 2.  **Define the range of variation for each parameter:**
 
-```{=html}
-<!-- -->
-```
 a.  For each identified key parameter or assumption, define a reasonable
     range of variation or alternative values that reflect potential
     changes in the real-world conditions.
 
-```{=html}
-<!-- -->
-```
 3.  **Create scenarios based on parameter variations:**
 
 a\. Develop a set of scenarios that encompass the defined range of
@@ -528,6 +530,10 @@ parameter variations, and key findings.
 b\. Save the sensitivity analysis results, including the solutions and
 performance metrics for each scenario, in an appropriate format for
 future reference and reporting.
+
+```{=html}
+<!-- -->
+```
 
 **Step 8: Analyze and visualize results**
 
