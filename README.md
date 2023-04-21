@@ -126,6 +126,10 @@ b\. Document the data preparation steps, and any assumptions made, so
 that anyone can easily replicate the process or make adjustments in the
 future.
 
+```{=html}
+<!-- -->
+```
+
 **Step 2: Charging Probability**
 
 1.  **Define constants and assumptions:**
