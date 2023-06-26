@@ -1,4 +1,4 @@
-***Probabilistic model: Determining roads which are underserved based on
+***Deterministic model: Determining roads which are underserved based on
 traffic volumes***
 
 **OVERVIEW**
