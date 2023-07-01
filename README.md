@@ -7,7 +7,7 @@ Our research is propelled by the creation of a dynamic model, designed to adapt 
 
 For a more detailed understanding of the project's methodology and findings, please refer to the code and data files within this repository.
 
-# Repository Guide:
+# REPOSITORY GUIDE:
 
 1. **Main_Folder**: This is the central repository for our research and associated code. The 'drafts' subfolder contains both pertinent and peripheral work carried out during our research. It isn't necessary to peruse this to understand the project's essentials.
 
