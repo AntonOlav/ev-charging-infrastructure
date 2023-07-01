@@ -1,0 +1,583 @@
+,Name,Latitude,Longitude
+0,Esso Moholt,63.409756128960225,10.440879680947319
+1,Vik�yrane �rsta ,62.19893834606634,6.123862570271854
+2,Yx Stryn,61.90069802938828,6.715850285970646
+3,IONITY Aurland,60.8992,7.2105
+4,IONITY Rygge,59.3865,10.75157
+5,IONITY Leirvik,59.77513,5.486289
+6,IONITY Dal,60.2531,11.1826
+7,IONITY Bergen,60.484743,5.376448
+8,IONITY Domb�s,62.074209,9.12493
+9,IONITY Sira,58.40599,6.62316
+10,IONITY Gol,60.702042,8.943108
+11,IONITY Ringdalskogen,59.11234,10.11033
+12,Circle K Sannan,64.0099804012101,11.502809023181953
+13,IONITY Kjerlingland,58.236828,8.299077
+14,IONITY Bagn,60.822468,9.5541
+15,Frohavet,63.88479,9.87337
+16,Doktorbakken 2,60.15911,11.43023
+17,Doktorbakken 6,60.15883,11.4279
+18,Rema 1000 Stavern,59.01617,10.02119
+19,Gromstad 50kw,58.87814,9.40728
+20,Bjelland,58.38356,7.52764
+21,Mehamn,71.0382208,27.8506775
+22,Kj�llefjord,70.9458779,27.3523839
+23,Bygdekinoen �ksfjord,70.2394881,22.3474748
+24,Tana Bru,70.20032,28.18906
+25,Varangerbotn,70.1721581,28.5553805
+26,Vads�,70.0730834,29.7547072
+27,Extra Bossekop,69.96111,23.23252
+28,YX Burfjord,69.94074,22.05
+29,Circle K Nordreisa,69.77198,21.02699
+30,K�fjord,69.5416909,20.5506883
+31,Karasjok,69.47264598,25.51792468
+32,M�ze,69.44371,23.66711
+33,And�ya Space Center,69.29569,16.03082
+34,Esso Kautokeino,69.01323,23.04084
+35,Hansens Bilverksted Mosj�en,65.82818,13.20252
+36,Storgata,64.86287,11.23773
+37,Strangata,64.86067,11.23663
+38,AutoU+0026#039;n AS,64.302492,10.512236
+39,Hellsenteret ladestasjon,63.44782,10.91071
+40,"Vihals Handelssted, Skards�ya, Aure",63.34756,8.68931
+41,Rema 1000 Aver�y,63.068046,7.64769
+42,�yskogvegen 5,62.97752,8.66698
+43,Eidsv�g,62.7757,8.06435
+44,Rema 1000 Giske,62.529111,6.116412
+45,Circle K Digerneset,62.49043,6.60654
+46,Brusdalsvegen  201,62.470451,6.3788033
+47,Alvdal,62.118898,10.613358
+48,Sogn og Fjordane Energi AS,61.76439,4.871626
+49,Pellestova Hotell Hafjell,61.2266949,10.5444369
+50,Burger King Ringsaker,60.84265,11.05346
+51,CC Hamar,60.7976147,11.0830523
+52,Ringvegen 10,60.78345,10.69342
+53,Amfi Raufoss,60.72915,10.61561
+54,Shell Nesbyen,60.571029,9.111828
+55,YX Oster�y,60.49867,5.47965
+56,R�dberg v/R�dberg Hotell,60.2677,8.94287
+57,Nannestad Sentrum,60.22035,11.01346
+58,Smedsrud Alpakkag�rd,60.00774,11.22311
+59,M�ller Bil Grorud,59.95492,10.89408
+60,Idas vei,59.950796,10.946725
+61,Ullern Flerbrukshall,59.927623,10.63062
+62,Rykkinn Senter,59.924486,10.486942
+63,Jordalgata 12,59.9090685,10.7818404
+64,Extra D�nski,59.90455,10.50474
+65,Esso Ryen,59.8945622,10.8050726
+66,Henie Onstad Kunstsenter,59.88864,10.55424
+67,Kuben Senter,59.79858,5.2101
+68,Eiker Senter,59.76046,9.90219
+69,Buskerud Storsenter,59.756915,10.001678
+70,Juvlandsvegen 2,59.69569,8.06618
+71,Rema 1000 Holmestrand,59.474957,10.317436
+72,Rygge Storsenter,59.41617,10.68292
+73,BKK Hurtigladestasjon Rema 1000 Svarstad,59.40147,9.95709
+74,Fyresdal kommune,59.20293,8.08427
+75,Down Town Senter,59.137833,9.639557
+76,BKK Hurtigladestasjon Rema 1000 Tj�me,59.12118,10.40059
+77,Boreal - Revheim,58.9482951,5.6593146
+78,Shell Bryne,58.7380121,5.6411648
+79,Shell Tvedestrand,58.615281,8.901498
+80,Extra Fisk�,58.12538,7.96376
+81,Skaidi Supercharger,70.432146,24.505947
+82,Handelsparken BKK,59.065125873774946,5.921035049548664
+83,Notodden Supercharger,59.56683,9.218931
+84,Vestby Supercharger,59.602856,10.741187
+85,Leira Supercharger,60.969163,9.29164
+86,Maurset Supercharger,60.410401,7.325072
+87,Molde Storsenter,62.73830629912783,7.185910151431358
+88,Asp�ya Fjordsenter,63.011624738087505,7.976664870251852
+89,Sommar�y,69.63589,17.99303
+90,Hamn,69.41698,17.16816
+91,Ole Reistads vei,69.05518,18.48918
+92,Esso Deli De Luca Grubhei,66.32036,14.20314
+93,Brekstad Fergeleie,63.68861,9.66842
+94,Kiwi,63.44233,10.43408
+95,TrP Jonas Lies Gate,63.42798,10.41926
+96,Aure kommunehus,63.26768,8.53157
+97,Rema 1000 Ulsteinvik,62.33763,5.85293
+98,Stad Kommune - Leikanger Sentrum,62.12013,5.31701
+99,Lom,61.83618,8.56653
+100,Svelgen,61.76841,5.29211
+101,Hardbakke,61.071742,4.840136
+102,Engeli omsorgsboliger,60.61665,12.00475
+103,Joker Hedalen,60.59944,9.74472
+104,Nesbyen Auto AS,60.556917,9.12913
+105,Skjold Borettslag,60.30719,5.34181
+106,Kiwi Moberg,60.181583,5.453698
+107,Oseana kunst og kultursenter,60.18141,5.46679
+108,Viksveien  2,60.07742,10.27884
+109,Romerikssenteret,60.076786,11.135482
+110,Skreddergata 1,59.96003,10.47427
+111,Ringstabekk Skole,59.91882,10.60067
+112,Gamle Drammensvei 119,59.90239,10.57104
+113,D�nskiveien 46,59.90068,10.50095
+114,Hynion H�vik,59.89859,10.57581
+115,Joker Hektnersletta,59.89802,11.09551
+116,Solvik BBS,59.89297,10.56105
+117,Esso B�mlo,59.79803,5.23112
+118,Albjerk Bil Drammen,59.75421,10.13318
+119,Shell Mj�ndalen,59.75158,10.02378
+120,Lyseren Strandpark,59.7062,11.09989
+121,Esso Kobbervikdalen,59.70269,10.24453
+122,Stortorvet senter,59.66826,9.65272
+123,Stopp Tune,59.28719,11.086506
+124,Apenesfjellet p-hus,59.21158,10.94104
+125,Kammerfossveien,58.87614,9.36416
+126,Eikerapen Turistsenter,58.53883,7.35682
+127,M�ller Bil Egersund,58.47998,5.99785
+128,Utsikten Hotell,58.30637,6.97038
+129,Aksdal South Supercharger,59.421206,5.4435
+130,Circle K Klett,63.32481,10.30589
+131,Tynset sentrum,62.274615,10.779675
+132,Hernes Supercharger,60.932103,11.675676
+133,Mo I Rana Supercharger,66.307374,14.152668
+134,Arna Supercharger,60.421924,5.46703
+135,Levanger Supercharger,63.734517,11.281552
+136,Rugtvedt Supercharger,59.035933,9.67402
+137,Berk�k Supercharger,62.83203,10.00964
+138,Skibotn Supercharger,69.392448,20.268423
+139,S�rkjosen Supercharger,69.792427,20.939286
+140,�rskog Supercharger,62.5203,6.916356
+141,Nes I �dal � Valdresporten Supercharger,60.584991,9.984288
+142,Hokksund Supercharger,59.761249,9.905515
+143,Hovden Supercharger,59.561444,7.356644
+144,�sane Supercharger,60.484345,5.375959
+145,Rygge Supercharger,59.38753,10.751039
+146,Gulsvik Supercharger,60.381223,9.609859
+147,Voss Supercharger,60.658184,6.436238
+148,"Eidsvoll Verk, Norway - Nebbenes Supercharger",60.312153,11.144888
+149,Skarnes Supercharger,60.248841,11.743848
+150,L�rdal Supercharger,61.064746,7.510429
+151,"Skj�k, Norway - Bismo Supercharger",61.88317,8.267157
+152,Vinstra Supercharger,61.591747,9.722741
+153,Norheimsund Supercharger,60.372334,6.141234
+154,Porsgrunn Supercharger,59.122085,9.707432
+155,Gol West,60.697258,8.953551
+156,Vikes� Supercharger,58.631861,6.077764
+157,Os Supercharger,60.193018,5.465142
+158,R�ldal Supercharger,59.816851,6.752166
+159,�yer Supercharger,61.243354,10.434287
+160,Lavik Supercharger,61.103661,5.513039
+161,Holmestrand Supercharger,59.490326,10.294542
+162,Mosj�en North Supercharger,65.841627,13.187939
+163,Brumunddal Supercharger,60.878539,10.929584
+164,Eidfjord Supercharger,60.467438,7.068209
+165,Ringdalskogen Supercharger,59.112402,10.108727
+166,"Jaren, Spydeberg Supercharger",59.617769,11.00302
+167,�ndalsnes Supercharger,62.557776,7.685321
+168,Skei Supercharger,61.575358,6.483264
+169,Bygland Supercharger,58.827659,7.796338
+170,Domb�s,62.07417889953439,9.127585247680145
+171,Vitaminveien,59.94609513678833,10.777006219237819
+172,Svolv�r,68.233132,14.559828
+173,Hvervenmoen ladepark - Hvervenmoveien 2,60.14595386718787,10.250290744350423
+174,Hvervenmoveien 2,60.14316150743727,10.32556915173268
+175,Bamble Supercharger,58.971301,9.513025
+176,Tesla Supercharger Liertoppen,59.8090147632474,10.2991707709778
+177,Hammerfest lufthavn,70.67823,23.6684
+178,Grieg Seafood avd. settefisk,70.41265,26.69634
+179,ABC Thai AS,70.37006,31.11
+180,Lakselv Lufthavn,70.06689,24.98284
+181,Alta lufthavn,69.97774,23.34683
+182,Troms� taxi,69.6927,19.0139
+183,Stakkevollvegen,69.66038,18.96813
+184,K�fjord Helsetun,69.49942,20.82322
+185,Sortland Storsenter,68.69395,15.41677
+186,Svebj�rn Auto Narvik,68.4115,17.42844
+187,Storgata 46,68.23347,14.56573
+188,Extra Tverlandet,67.30556,14.73832
+189,Esso R�nvik,67.29327,14.40789
+190,Haaland AS,66.3173,14.14577
+191,Trekanten parkering,66.30708,14.13173
+192,Sulland Mo AS,66.30417,14.12859
+193,Sandnessj�en lufthavn,65.95684,12.46732
+194,R�rvik Lufthavn,64.83952,11.14423
+195,R�dhusgata Verdal Kommune,63.79349,11.48776
+196,Extra Verdal,63.78879,11.47987
+197,Sulland Verdal (Madsen Bil),63.78537,11.45517
+198,Hitra R�dhus,63.60171,8.9742
+199,"Trondheim lufthavn, V�rnes",63.45401,10.9161
+200,TrP Losgata,63.43789,10.41348
+201,Sirkus Shopping,63.43623,10.45546
+202,TrP Munkegata,63.43163,10.39431
+203,Meldal N�ringssenter,63.140718,9.710069
+204,Smia Restaurant U+0026amp; Catering,63.11682,7.73198
+205,Kirketomta,63.11178,7.72643
+206,Tydal kommune,63.0446785,11.65691
+207,Bud,62.90666,6.91776
+208,Rema 1000 Elnesv�gen,62.85427,7.16538
+209,�len sentrum,62.84234,11.30244
+210,Kviltorp Camping,62.742643,7.23335
+211,Esso Vigra,62.53255,6.12368
+212,Amfi Moa �st,62.46579,6.35518
+213,Rema 1000 Flisnes,62.43239,6.41347
+214,�rsta/Volda lufthavn,62.18004,6.0795
+215,"Rema 1000 Stokkenes, Nordfjordeid",61.90981,6.00345
+216,TOCN - Stryn Torg,61.90386,6.71758
+217,Engerdal,61.75895,11.96257
+218,Amfi Flor�,61.60145,5.03671
+219,"Rema 1000 Evja, Flor�",61.59897,5.04765
+220,Rema 1000 F�rde,61.44946,5.87215
+221,Extra Bygg F�rde,61.44892,5.88882
+222,Gaupne hurtigladestasjon,61.40322,7.29432
+223,Bl�swixbutikken,61.14848,10.41554
+224,Vik i Sogn,61.0859484,6.5814388
+225,Kiwi R�n,61.03372,9.05456
+226,Valdres Auto AS,60.9906,9.22115
+227,Fagernes Kj�pesenter,60.98654,9.23831
+228,Kiwi N�roset,60.97491,10.77644
+229,"Kiwi, Aurdal",60.91995,9.42217
+230,Heggedalsvegen,60.71694,11.19479
+231,Evanger,60.64877,6.11544
+232,Extra Flisa,60.61283,12.00852
+233,Kiwi Nesbyen,60.56939,9.10478
+234,Hjellvik�sen  48,60.55377,5.41532
+235,Granvin,60.52419,6.71977
+236,Frekhaug,60.51808,5.23941
+237,Bergen,60.48466,5.37211
+238,Rema 1000 Juvikflaten,60.42794,5.19317
+239,Maurset,60.41032,7.32484
+240,Arnatveit Borettslag,60.40615,5.47972
+241,�gotnes Torg,60.40359,5.00081
+242,�ystese,60.38692,6.20142
+243,Shell Lone,60.37425,5.45709
+244,Esso Loddefjord,60.36144,5.23441
+245,Sartor storsenter,60.35837,5.12625
+246,Extra Hammer�s,60.33084,11.21368
+247,"McDonalds Lagunen, R�dal",60.29556,5.32697
+248,"Bergen lufthavn, P3",60.28959,5.22652
+249,Eggedal,60.24675,9.356
+250,"Sanngrund, Skarnes",60.19908,11.58132
+251,Oslo lufthavn P10,60.19265,11.10098
+252,Kuben kj�pesenter,60.16526,10.25376
+253,Aka Arena,60.15888,10.26491
+254,Extra Neskollen,60.12603,11.33999
+255,YX 7-Eleven Hakadal,60.10056,10.86631
+256,Rema 1000 S�rfjordsenteret,60.07064,6.54164
+257,Gjermundshamn,60.06083,5.91401
+258,Prestfoss,60.04375,9.63268
+259,Vikersund N�ringspark,59.98711,9.97561
+260,Trondheimsveien,59.98576,10.95148
+261,Hvam,59.97994,10.98897
+262,Meny �r�sen,59.96329,11.06117
+263,Obs Haugenstua,59.95493,10.90121
+264,Str�mmen Storsenter,59.94645,11.00647
+265,Circle K L�renskog,59.941336,10.945095
+266,Colosseum P-hus,59.92926,10.71083
+267,Kiwi M�lla,59.92874,10.75789
+268,Rema 1000 Fitjar,59.91991,5.32625
+269,Birger N. Haug Rud,59.90778,10.49272
+270,Bryn senter,59.90364,10.82152
+271,Rema Ryensvingen,59.892336,10.805119
+272,Haral�kka parkeringsplass,59.88061,10.85663
+273,Circle K Abilds�,59.87918,10.819441
+274,Tangen senter,59.85642,10.66013
+275,Senter Syd Mortensrud,59.84891,10.82835
+276,�krafjordtunet,59.80374,6.21347
+277,H�ndverkshuset Oppeg�rd AS,59.79429,10.82207
+278,Extra Ankertunet,59.78501,10.48542
+279,Kiwi Lerberg,59.77866,9.91707
+280,Buskerud Bilsenter,59.76819,10.25949
+281,BEE - Langhus n�ringseiendom,59.75465,10.82978
+282,Obs Bygg Mj�ndalen,59.74864,10.02674
+283,R�ykenbadet,59.74188,10.39151
+284,Extra Nesset,59.73047,10.73524
+285,Circle K Rundtom,59.729633,10.224058
+286,Kjeppestadveien,59.71312,10.85515
+287,Sauda,59.65109,6.35235
+288,Klokkarstua,59.62009,10.46941
+289,Eventyrfabrikken Vestby,59.61922,10.74038
+290,Shell Notodden,59.567415,9.213688
+291,O. H. Holtas gate 32,59.56612,9.26118
+292,Ramberghj�rnet,59.56495,9.26736
+293,Extra Sveio,59.54355,5.35502
+294,Tofte Bensin og Service AS,59.54175,10.55708
+295,Hof Skole,59.53807,10.07634
+296,Knapphus bensinstasjon,59.53021,5.68768
+297,YX 7-eleven Sonsveien,59.51562,10.72793
+298,Burger King Horten,59.40789,10.48563
+299,Extra Avaldsnes,59.35582,5.27871
+300,Shell Kjelleveien,59.27928,10.40098
+301,Hovedkontor Europris,59.25669,11.00245
+302,Gr�nn Kontakt �stfoldhallene,59.25058,10.99272
+303,Dahles Auto R�bekken,59.24127,10.97708
+304,Produksjonsveien,59.23934,10.98591
+305,Torvbyen senter,59.21492,10.94055
+306,Extra Gr�tenmoen,59.18636,9.61225
+307,Extra Finn�y,59.17178,5.87645
+308,Glenneveien,59.12671,11.36815
+309,COOP extra Halden,59.12268,11.39227
+310,"Vassbotn Grillene Nord, Larvik",59.07367,9.91353
+311,"R�dhuset Skj�rhalden, Hvaler",59.02824,11.03127
+312,Hundv�g Rema 1000,58.99329,5.72939
+313,YX Tananger,58.93551,5.58579
+314,M�ller Bil Forus,58.88732,5.7123
+315,Kiwi Lundehagen,58.83008,5.72654
+316,YX Brokelandsheia,58.82104,9.07732
+317,Ljosland Skisenter,58.78306,7.33252
+318,"Infogo/Hatteland Elektriske, Kleppe",58.78008,5.62276
+319,Circle K �lg�rd,58.77161,5.847608
+320,Extra �lg�rd,58.76967,5.85686
+321,R�dhuset i Time,58.73631,5.65156
+322,Ris�r Kommunehus,58.71835,9.21214
+323,Frolandssenteret,58.50803,8.62977
+324,"Kiwi Stoa �st, Arendal",58.46816,8.72101
+325,OBS Arendal,58.46437,8.70981
+326,YX Soknadal,58.34341,6.28138
+327,"Vinkelbygget, Dahlske VGS",58.33808,8.58142
+328,Tollbukaia Flekkefjord Sentrum,58.294173,6.660833
+329,Langbrygga,58.24647,8.37919
+330,Obs Bygg S�rlandsparken,58.18854,8.15498
+331,McDonalds S�rlandsparken,58.17845,8.13453
+332,Obs S�rlandssenteret,58.17774,8.12642
+333,TP Torvet Kristiansand,58.14715,7.99687
+334,Slettheiveien 45,58.13668,7.93725
+335,Stams�yveien 2,58.13405,7.03889
+336,V�gsbygd Videreg�ende skole,58.12563,7.95485
+337,Amfi V�gsbygd,58.12415,7.95395
+338,Bryggegata 10,58.02582,7.45172
+339,Syrstadeng bil AS,63.093577,9.598497
+340,IONITY Elverum,60.88007,11.55093
+341,IONITY R�ldal,59.832465,6.813151
+342,IONITY H�ydalsmo,59.49497,8.2027
+343,IONITY Lura,58.873054,5.7206
+344,Extra Porsgrunn,59.1393306278071,9.65446226091285
+345,Burger King Grelland Nordg�ende,59.5146420105174,10.2035013726705
+346,Burger King Grelland S�rg�ende,59.5136567965356,10.2029024422529
+347,Coop Extra Tangvall,58.0984247090946,7.81604208204431
+348,IONITY Vik,60.083312,10.287055
+349,Borgundvegen,62.4665622156925,6.35159822911726
+350,Circle K �kern,59.9273890044086,10.8105093663315
+351,Finnmarkseiendommen (FEFO) hovedkontor,70.05104,24.96965
+352,Extra ABC Namsos,64.46801,11.50828
+353,Krokstad�ra,63.40045,9.50253
+354,Rindal,63.05529,9.21239
+355,Circle K Brattv�g,62.58501,6.45163
+356,Extra Digernes,62.49271,6.60697
+357,Kiwi Klokkersund,62.466767827464906,6.246670075818429
+358,Kiwi Sjusj�en,61.15232,10.69057
+359,Rema 1000 Gol,60.701748,8.961616
+360,Frikvarteret,59.02148,6.92675
+361,Amfi Havnesenteret,65.47296,12.20712
+362,Circle K Hommelst�,65.40361,12.54725
+363,Domus R�ros,62.57613,11.38022
+364,Rema 1000 R�ros,62.57459,11.39597
+365,Extra Fetsund,59.92811,11.16421
+366,Coop Marked Trofors,65.53696,13.38759
+367,Majavatn,65.16748,13.36988
+368,NAF Mofj�ra,63.73784,11.28169
+369,Extra Stj�rdal,63.467581860169645,10.942828561071451
+370,Sm�lasenteret,63.46089,8.01051
+371,Kiwi Heidal,61.75889,9.28585
+372,Krokstrand Cafe og Overnatting,66.46263,15.09289
+373,Coop Prix Storforshei,66.40434,14.52831
+374,Circle K Namsskogan,64.93368,13.16657
+375,Circle K Harran,64.55928,12.48518
+376,Sn�sakroa,64.25328,12.21518
+377,"Magneten, Levanger",63.73403,11.28225
+378,Coop Prix Tingvoll,62.90934,8.20767
+379,Sunndalsporten,62.54921,9.11493
+380,Joker Folldal,62.13476,9.99351
+381,Circle K Rygge,59.3865614656138,10.7519781589508
+382,Fortum hurtigladestasjon Meny Helgeroa,58.98795844318089,9.873829999999998
+383,Kobbelv Vershus,67.58005,15.89228
+384,Shell Fauske,67.25916,15.39072
+385,R�kland Senter,66.98046,15.31501
+386,Sandnessj�en,66.02311,12.63676
+387,Hattfjelldal,65.59562,13.98965
+388,"Coop Marked, Batnfjord",62.89366,7.67994
+389,Coop Marked Lesjaverk,62.19331,8.53645
+390,Circle K V�g�,61.87715,9.09854
+391,Coop Prix Byrkjelo,61.73343,6.50643
+392,Circle K Innlandsporten,60.63119,11.30237
+393,Ingeni�rvesenet Dalaneveien 39/41,58.16479,7.94901
+394,Amfi Sogningen,61.2321658,7.1036529
+395,Shell 7-eleven Vestby,59.6023023,10.742786
+396,Shell 7-Eleven L�ten,60.82215,11.33716
+397,Gr�nn Kontakt at ABB Billingstad,59.8694544401555,10.4847219621439
+398,Circle K 123 Lavik,61.10321,5.51227
+399,Best Vinje�ra,63.20728,9.00501
+400,Vestnes,62.62333,7.09433
+401,Postg�rden Oppdal,62.59361,9.6936
+402,Circle K 123 Sande,61.32149,5.77771
+403,Kiwi Vingnes,61.10639,10.44391
+404,Gr�nn Kontakt hurtigladestasjon Circle K Ringdalskogen,59.11202,10.10847
+405,"Fortum hurtigladestasjon Arendal, �stre gate",58.46353,8.76249
+406,Coop Marked Kvikne,62.56601,10.32235
+407,Circle K Vinstra,61.59216,9.72421
+408,"Jekta Storsenter Vest, Troms�",69.67447,18.92201
+409,Coop Domus St�ren,63.04915,10.28375
+410,Shell Alvdal,62.11101,10.62728
+411,Hanestad Vertshus,61.83494,10.88532
+412,"Shell Koppang, Rendalen",61.58826,10.99561
+413,"Kiwi Trysilvegen, Elverum",60.89421,11.58147
+414,"Kiwi Fjeldset, Elverum",60.87424,11.57648
+415,Circle K Dal,60.25351,11.1834
+416,"Fortum hurtigladestasjon Kiwi �gotnes, Fjell",60.4035768749674,5.01826286315918
+417,Eidsvoll Verk Nebbenes,60.312269,11.145104
+418,Shell M�rkved Bod�,67.28181,14.54913
+419,Esso Mosj�en,65.86314,13.19615
+420,Fortum hurtigladestasjon Rena Torggata 14,61.13244,11.36918
+421,Gr�nn Kontakt hurtigladestasjon Circle K Fjellhamar,59.93414,10.98535
+422,Circle K Fjellhamar,59.934200543807805,10.985576165908725
+423,McDonalds Gardermoen,60.1662601481615,11.1582042111083
+424,Pit Stop Handeland,58.220657564155005,7.0136264324769115
+425,Fortum - Mosj�en sentrum ,65.8357654,13.190514600000029
+426,"Gr�nn Kontakt hurtigladestasjon Circle K, Hunstad",67.27982,14.53938
+427,Gr�nn Kontakt hurtigladestasjon Circle K Mosj�en,65.84142,13.20112
+428,Gr�nn Kontakt hurtigladestasjon Hemsedal,60.86205,8.55464
+429,Fortum hurtigladestasjon Europris Dr�bak,59.67512,10.65996
+430,"Gr�nn Kontakt, Hurtigladestasjon Kjerlingland, Lillesand",58.23646,8.29901
+431,Aksdal Supercharger,59.4233186,5.44280430000003
+432,Sandane Supercharger,61.7775722,6.21388230000002
+433,Gr�nn Kontakt Lyngdal,58.1559787,7.1033516
+434,Fortum hurtigladestasjon COOP Obs Mo i Rana,66.30634,14.1479
+435,"Fortum hurtigladestasjon Shell Moholt, Trondheim",63.40878,10.44616
+436,Gr�nn Kontakt hurtigladestasjon Kinsarvik,60.37422,6.71461
+437,"Gr�nn Kontakt hurtigladestasjon Tysnes, V�ge",60.0425,5.52324
+438,"Fortum hurtigladestasjon Shell 7Eleven Bekkelaget, Oslo",59.880144,10.773582
+439,"Fortum hurtigladestasjon Rema 1000, Krager�",58.87147,9.37501
+440,Fortum Hurtigladestasjon T�yen,59.9181936004248,10.7741117477417
+441,Fortum hurtigladestasjon Grong,64.46479,12.31639
+442,"Fortum hurtigladestasjon Grisen Storsenter, Tvedestrand",58.628792,8.916503
+443,Hvervenmoveien  2C,60.1459,10.25245
+444,Fortum hurtigladestasjon Kiwi Leira i Valdres,60.97006,9.29035
+445,"Fortum hurtigladestasjon McDonalds Grorud, Oslo",59.9496407651554,10.8855619815064
+446,Fortum hurtigladestasjon Shell Mortensrud,59.85012,10.83466
+447,Lufthavnveien 1,63.451904,10.917972
+448,Litle�svegen 75,60.464958,5.343087
+449,Haraldrudveien 18,59.928043,10.824363
+450,Elverum Supercharger,60.8842556729891,11.540634071661
+451,"eRoute 71, H�gskolen Evenstad, Koppang",61.42459998198174,11.080291190490685
+452,Lier South Supercharger,59.7660347,10.2574363
+453,Lier North Supercharger,59.770939,10.262024
+454,BKK Knarvik,60.5476112,5.289851999999996
+455,Hauk�s (Statoil),60.4844583287349,5.37631630897522
+456,Danmarksplass (BKK),60.3737625576434,5.34068048000336
+457,Fortum hurtigladestasjon Shell Espa,60.5617832258234,11.2560381145045
+458,McDonalds Porsgrunn,59.14914,9.66312
+459,Bygland Supercharger,58.83076,7.79664
+460,Fortum Kiwi S�nsterudveien,59.805457421679,10.8068504044195
+461,Fortum hurtigladestasjon Kiwi Beitost�len,61.24296,8.92108
+462,Fortum hurtigladestasjon Kiwi Ytre Enebakk,59.72334,11.05696
+463,Fortum Kiwi Hagan,59.998539655423755,10.918385764357481
+464,Kiwi R�de,59.3522514,10.8641069
+465,Fortum hurtigladestasjon Kiwi �fjord,63.9606,10.22553
+466,Fortum hurtiglader Kiwi Bogstad,59.96245,10.64369
+467,Kveldroveien,59.726062668879116,10.78349935219673
+468,AutoXL,59.171486,9.6167262
+469,Kirketorget Moss,59.4343146279072,10.6616848970748
+470,"Oppdalsporten, Fagerhaug",62.65678,9.88175
+471,Bjorli,62.25889,8.20809
+472,Hjerkinn,62.22136,9.54442
+473,Lom,61.84119,8.57464
+474,Bryne Fortum hurtiglader,58.7781708,5.6259443
+475,Stj�rdal Supercharger,63.46671,10.91795
+476,"Fortum hurtigladestasjon M�ller, Lysaker, Oslo",59.91913,10.63322
+477,"Fortum hurtigladestasjon Kiwi Kirkekrysset,Nesoddtangen",59.80571,10.6887
+478,Fortum hurtigladestasjon Albjerk Bil,59.75464,10.26059
+479,"Fortum hurtigladestasjon Kiwi Mell�s, Moss",59.42126,10.67585
+480,"Fortum hurtigladestasjon Kiwi Halmstad, Rygge",59.37925,10.75514
+481,McDonalds Mariero,58.93371,5.73981
+482,Ben�s Kaf� og Motell,58.52665,6.12672
+483,Finn�y Judaberg Fortum Hurtiglader,59.164645527734,5.871741771698
+484,F�rde hurtiglader GR,61.4478875,5.8850457
+485,Nordfjordeid Gr�nn kontakt,61.9095301007522,5.98485908652947
+486,Fortum hurtigladestasjon Kiwi Elverum,60.88317,11.56028
+487,"Gr�nn Kontakt hurtigladestasjon, Kristiansand",58.180847,7.932224
+488,"Witro Bil Hurtigladestasjon, Trondheim",63.39312,10.40225
+489,"Skei Hotel, J�lster",61.57234,6.48115
+490,"AutoCenteret Hurtigladestasjon, Bergen",60.46997464267415,5.338389182872807
+491,Circle K Minnesund,60.39071,11.21554
+492,"Coop Mega, H�nefoss",60.17776,10.26917
+493,"Fortum hurtigladestasjon Kiwi Bjerke, Oslo",59.9416499,10.809516900000062
+494,"Fortum - Birger N. Haug Hurtigladestasjon, Oslo",59.93085,10.824479999999994
+495,"Circle K �kern Hurtigladestasjon, Oslo",59.92739106791902,10.810328338623085
+496,"Fortum Hurtigladestasjon Alnabru, Oslo",59.92387562804377,10.844078510589608
+497,"Fortum ladestasjon One Park Sentrum P-hus (Ibsen), Oslo",59.91571,10.74248
+498,"Gr�nn Kontakt Hurtigladestasjon, ABB Alnabru, Oslo",59.91501,10.825919999999996
+499,Fortum Hurtigladestasjon Kiwi �mot,59.89266,9.9241
+500,"Fortum Hurtigladestasjon, Sandvika",59.88974,10.52643
+501,"Fortum Hurtigladestasjon, M�ller Bil Asker og B�rum, Billingstad",59.87635,10.501009999999951
+502,"Fortum Hurtigladestasjon, Liertoppen",59.81098,10.30406
+503,"Fortum - Birger N. Haug Hurtigladestasjon, Follo",59.7201,10.79243
+504,Fortum hurtigladestasjon Kiwi Dr�bak,59.66683,10.64622
+505,"Fortum Hurtigladestasjon, Vestby",59.62573,10.73286
+506,"Circle K Sekkelsten Hurtigladestasjon, Askim",59.57438,11.21659
+507,Nutheim Gjestgiveri,59.57056,8.54843
+508,"Gr�nn Kontakt, Hurtigladestasjon i Notodden",59.55938,9.2487
+509,Storebaug Vest,59.42474,10.70621
+510,Bavaria Haugesund,59.38251,5.3088
+511,Solli Supercharger,59.32416,10.9553
+512,"Fortum Flyplasskafeen, T�nsberg",59.3073,10.36138
+513,"Fortum INSPIRIA Science Center, Sarpsborg",59.29722,11.06195
+514,"Fortum Hurtigladestasjon, Sarpsborg",59.2750918881276,11.0850354232788
+515,"Fortum hurtigladestasjon McDonalds R�bekken, Fredrikstad",59.23735,10.9663
+516,Kiwi Moveien,59.14293,10.19971
+517,"S�nnico AS, Kristiansand",58.16586,8.03898
+518,"Fortum hurtigladestasjon Kiwi Lund, Kristiansand",58.15284,8.02465
+519,"Gr�nn Kontakt, Hurtigladestasjon i Mandal",58.0248222814116,7.45596170425415
+520,Kiwi Gudridflaten Os,60.20425,5.45332
+521,Circle K Telemarksporten,59.12182,9.70794
+522,Fortum Hurtigladestasjon Kiwi Svolv�r,68.23259,14.53109
+523,Circle K Korgen,66.08153,13.82736
+524,Fortum hurtigladestasjon Kiwi Levanger,63.74909,11.30225
+525,"Fortum Hurtigladestasjon YX Gr�myra, Levanger",63.71749,11.22584
+526,Leinstrand - Klett Supercharger,63.32522,10.30523
+527,R�ros Hotell,62.57954,11.37831
+528,Fortum hurtigladestsjon Kiwi Otta,61.7730452079862,9.53994793121343
+529,Romarheim,60.73974,5.63329
+530,Hallingdal Tingrett,60.56791,9.10149
+531,Kiwi Minnesund,60.40302,11.24261
+532,"Fortum hurtigladestasjon Kiwi �rland, Samnanger",60.40096,5.73074
+533,"Fortum hurtigladestasjon Kiwi S�nsterudveien, Oppeg�rd",59.80563,10.80685
+534,Coop Extra Sunndals�ra,62.67385,8.56824
+535,�ndalsnes,62.55881000000096,7.682409999998754
+536,Kiwi Fjellbo,60.02443,11.06923
+537,Kiwi Kleivbrottet,59.47874,10.31606
+538,Kiwi �yer,61.24387,10.43865
+539,Fortum hurtigladestasjon Kiwi Ottestad,60.77301,11.11571
+540,Setermoen Supercharger,68.8596,18.34769
+541,Vester�len Bil Fortum Hurtigladerstasjon,68.70472,15.41195
+542,Tesla superladestasjon Hamar�y Hotel,67.96253,15.92924
+543,Storjord Supercharger,66.81404,15.4005
+544,Mosj�en Supercharger,65.83516,13.1914
+545,Grong Supercharger,64.464932,12.315369
+546,Steinkjer Bil Hurtigladestasjon,64.00914,11.4894
+547,"Fortum hurtigladestasjon Brekstad, �rland",63.68496,9.66531
+548,Fortum hurtigladestasjon Mer�ker,63.41374,11.73943
+549,Orkanger,63.29745,9.85239
+550,"Vals�ytunet, Halsa",63.14201,8.53254
+551,Asp�ya Supercharger,63.0115,7.97571
+552,Amfi Surnadal,62.97002,8.71288
+553,Molde fergekai,62.7373,7.17019
+554,Extra Volda,62.17263,6.04338
+555,Alvdal Supercharger,62.11486,10.61639
+556,"Gr�nn Kontakt, Hurtigladestasjon i Sandane",61.7773444377927,6.21324062347412
+557,Ringebu skysstasjon,61.52934,10.14027
+558,"Best J�lstraholmen Hurtigladestasjon, Vassenden",61.48805,6.08102
+559,"Strandtorget Hurtigladestasjon, Lillehammer",61.11537,10.44906
+560,"Oppedal Hurtigladestasjon, Gulen",61.05457,5.50737
+561,"Gr�nn Kontakt, Hurtigladestasjon p� Rudsh�gda",60.90957,10.81549
+562,Gr�nn Kontakt Elverum Hurtigladestasjon,60.88233,11.5363
+563,Fortum hurtigladestasjon Brumunddal,60.88003,10.93102
+564,"Skogveien Auto Hurtigladestasjon, Hamar",60.8061,11.14853
+565,Gr�nn kontakt Gj�vik hurtigladestasjon,60.79553,10.69873
+566,"Gr�nn Kontakt, Hurtiglader p� Geilo",60.53338833106655,8.205244723873202
+567,Kiwi R�dberg,60.26698,8.94735
+568,Kiwi Kl�fta,60.07273,11.13572
+569,"Fortum Hurtigladestasjon, M�ller Bil Romerike, Skjetten",59.97965,11.00361
+570,"Fortum - Birger N. Haug Hurtigladestasjon, Lillestr�m",59.9561,11.03461
+571,Vestby,59.62357,10.73852
+572,Vinje Supercharger,59.56987,7.99189
+573,"S�lvgarden hotell, Rysstad",59.09105,7.54048
+574,Sundebru Supercharger,58.820786,9.073735
+575,Gol Supercharger,60.702333,8.986
+576,Domb�s Supercharger,62.074928,9.128281
+577,Lyngdal Supercharger,58.15652,7.10296
+578,Aurland Supercharger,60.898649,7.210826
+579,Lillehammer Supercharger,61.130464,10.434918
+580,Fortum Hurtigladestasjon V�rnes Lufthavn,63.451216,10.919549
+581,Maxi Storsenter,60.79857,11.04712
