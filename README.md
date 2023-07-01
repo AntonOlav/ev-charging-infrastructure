@@ -24,6 +24,9 @@ Each folder also contains the necessary data files for executing the code files.
 
 ![Monthly Baseline Image](Main_Folder/Visualizations/all_monthly_baseline.png)
 
+<p align="center">
+  <img src="Main_Folder/Visualizations/all_monthly_baseline.png" alt="Monthly Baseline Image">
+</p>
 
 
 
