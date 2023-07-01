@@ -22,6 +22,7 @@ For a more detailed understanding of the project's methodology and findings, ple
 Each folder also contains the necessary data files for executing the code files.
 
 
+![Monthly Baseline Image](Main_Folder/Visualizations/all_monthly_baseline.png)
 
 
 
