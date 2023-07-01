@@ -1,5 +1,5 @@
 
-# **OVERVIEW**
+# **OVERVIEW:**
 
 This project examines the infrastructure required to support the rapidly growing Electric Vehicle (EV) market in Norway. Utilizing real-world traffic data, alongside various programming tools and models, we provide an in-depth assessment of the existing EV charging infrastructure. Our focus is on identifying areas of high demand and potential congestion points within the charging network.
 
