@@ -1,7 +1,7 @@
 ***Deterministic model: Determining roads which are underserved based on
 traffic volumes and computed supply***
 
-**OVERVIEW**
+# **OVERVIEW**
 
 This project examines the infrastructure required to support the rapidly growing Electric Vehicle (EV) market in Norway. Utilizing real-world traffic data, alongside various programming tools and models, we provide an in-depth assessment of the existing EV charging infrastructure. Our focus is on identifying areas of high demand and potential congestion points within the charging network.
 
@@ -27,20 +27,4 @@ Each folder also contains the necessary data files for executing the code files.
 
 
 
-
-
-
-
-Repositray Guide:
-1. The Main_Folder is where all the research and associated code is contained. The drafts folder contains both relevant and not-so-relevant work that we've conducted during our research. It is not needed to go through for an understanding of the project.
-
-2. In the Main_Folder 1.Data_Aqcuisition you will find every step from the data acquisition of geo-data required for creating the network, traffic data required for determining demand and charging station data required for determining supply.
-
-3. In the Main_Folder 2.Constructing_Network you can find every stage of network creation from the original data to the simplified network.
-
-4. In the Main_Folder 3.Data_Processing you will find where the main model was created and how.
-
-5. In the Main_Folder 4.Data_Analysis you will find how we calculated costs for fulfilling infrastructure needs and how the sensitivites where conducted.
-
-Every folder also contains the needed data files for running the code files.
 
