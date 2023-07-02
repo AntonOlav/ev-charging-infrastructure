@@ -182,7 +182,6 @@ nbclassic @ file:///tmp/build/80754af9/nbclassic_1616085367084/work
 nbclient @ file:///tmp/build/80754af9/nbclient_1614364831625/work
 nbconvert @ file:///opt/concourse/worker/volumes/live/2b9c1d93-d0fd-432f-7d93-66c93d81b614/volume/nbconvert_1601914875037/work
 nbformat @ file:///tmp/build/80754af9/nbformat_1617383369282/work
-neo4j==4.4.1
 nest-asyncio @ file:///tmp/build/80754af9/nest-asyncio_1613680548246/work
 networkx==3.0
 nltk @ file:///tmp/build/80754af9/nltk_1618327084230/work
@@ -193,7 +192,6 @@ numexpr @ file:///opt/concourse/worker/volumes/live/e845d683-bbb9-4fa2-79ce-743b
 numpy==1.22.4
 numpydoc @ file:///tmp/build/80754af9/numpydoc_1605117425582/work
 olefile==0.46
-openai==0.27.4
 openpyxl @ file:///tmp/build/80754af9/openpyxl_1615411699337/work
 osmnx==1.2.2
 outcome==1.2.0
@@ -238,7 +236,6 @@ pyerfa @ file:///opt/concourse/worker/volumes/live/499ad55d-d083-454d-5032-b5d62
 pyflakes @ file:///home/ktietz/src/ci_ipy2/pyflakes_1612551159640/work
 Pygments @ file:///tmp/build/80754af9/pygments_1615143339740/work
 pyjstat==2.3.0
-PyJWT @ file:///private/var/folders/sy/f16zz6x50xz3113nwtb9bvq00000gp/T/abs_eec47dd9-fcc8-4e06-bbca-6138d11dbbcch6zasfc4/croots/recipe/pyjwt_1657544589510/work
 pylint @ file:///opt/concourse/worker/volumes/live/39bfc6db-5da7-4bc4-5240-e8a1167491ff/volume/pylint_1617135827184/work
 pyls-black @ file:///tmp/build/80754af9/pyls-black_1607553132291/work
 pyls-spyder @ file:///tmp/build/80754af9/pyls-spyder_1613849700860/work
