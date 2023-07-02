@@ -21,6 +21,7 @@ For a more detailed understanding of the project's methodology and findings, ple
 
 6. **Main_Folder/4.Data_Analysis**: In this section, you will find our cost calculations for meeting infrastructure requirements, as well as the procedures for conducting sensitivity analyses.
 
+7. **Main_Folder/Visualizations/QGIS_Files**: This folder contains GEOJSON files of charging stations, traffic registration points and the simplified network. Can be imported into QGIS for further processing.
 
 
 Each folder also contains the necessary data files for executing the code files.
