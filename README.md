@@ -27,7 +27,7 @@ For a more detailed understanding of the project's methodology and findings, ple
 Each folder also contains the necessary data files for executing the code files.
 
 <p align="center">
-  <img src="Main_Folder/Visualizations/ImagesFromThesis/all_monthly_baseline.png" alt="Monthly Baseline Image">
+  <img src="Main_Folder/Visualizations/ImagesFromThesis/all_monthly_baseline_(1)-transformed.png" alt="Monthly Baseline Image">
 </p>
 
 
