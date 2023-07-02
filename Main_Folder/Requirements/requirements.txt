@@ -101,7 +101,6 @@ neo4j==4.4.1
 networkx==3.0
 numpy==1.22.4
 olefile==0.46
-openai==0.27.4
 osmnx==1.2.2
 outcome==1.2.0
 pandas==1.5.2
