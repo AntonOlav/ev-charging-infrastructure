@@ -5,13 +5,13 @@ This project examines the infrastructure required to support the rapidly growing
 
 Our research is propelled by the creation of a dynamic model, designed to adapt to various parameters and assumptions, thus enabling us to capture a comprehensive picture of the infrastructure challenges. This model draws upon diverse data sources and integrates potential changes in traffic patterns.
 
-For a more detailed understanding of the project's methodology and findings, please refer to the code and data files within this repository.
+For a more detailed understanding of the project's methodology and findings, please refer to the Main_Folder within this repository.
 
 # REPOSITORY GUIDE:
 
 1. **Main_Folder**: This is the central folder for our research and associated code.
 
-2. **Drafts**: The 'drafts' folder contains both important and not-so-important work carried out during our research. It isn't necessary to view this to understand the project's essentials.
+2. **Drafts**: The 'drafts' folder contains both relevant and not-so-relevant work carried out during our research. It is not necessary to view this folder to understand the project's essentials.
 
 3. **Main_Folder/1.Data_Acquisition**: This section contains each step of the data acquisition process, which includes geo-data for network creation, traffic data for determining demand, and charging station data for supply assessment.
 
@@ -21,7 +21,7 @@ For a more detailed understanding of the project's methodology and findings, ple
 
 6. **Main_Folder/4.Data_Analysis**: In this section, you will find our cost calculations for meeting infrastructure requirements, as well as the procedures for conducting sensitivity analyses.
 
-7. **Main_Folder/Visualizations/QGIS_Files**: This folder contains GEOJSON files of charging stations, traffic registration points and the simplified network. Can be imported into QGIS for further processing.
+7. **Main_Folder/Visualizations/QGIS_Files**: This folder contains GEOJSON files of charging stations, traffic registration points and the simplified network. The files can be imported into QGIS for further processing.
 
 
 Each folder also contains the necessary data files for executing the code files.
